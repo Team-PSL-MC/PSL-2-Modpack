@@ -18,7 +18,7 @@ Building Gadgets, Chipped, FrameBlocks, Macaw's Doors/Fences/Furniture/Lights/Ro
 
 and more!
 
-
+<details>
 1.20.1 Modlist
 AdChimneys
 AdHooks
@@ -254,3 +254,4 @@ ZeroCore2
 Zeta
 zmedievalmusic
 [Forge]ctov-3.4.2.jar
+</details>
