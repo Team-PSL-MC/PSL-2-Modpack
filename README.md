@@ -1,24 +1,40 @@
-# Pumpkin Spice Latte 2 for 1.20.1 Modpack
-Concept is a Technology vs Magic Pack
+<div align="center">
+  <h1>Unleash the Power Within!</h1>
+</div>
+Dive into a world where technology reigns supreme and magic is at your fingertips! Our electrifying modpack introduces a dynamic fusion of cutting-edge Tech and enchanting Magic, allowing you to build advanced towns, factories, and cities like never before.
+
+<div>
+  <h2>Features</h2>
+</div>
+
+### Tech:
+- Harness the might of **Mekanism**, **Applied Energetics**, and **Immersive Engineering** to engineer your wildest creations.
+- Revolutionize automation with **Create** and streamline logistics with **Little Logistics**.
+- Manipulate dimensions with **RFTools** and unlock the potential of limitless power.
+
+### Magic:
+- Immerse yourself in the mystical realms of **Botania** and weave potent spells with **Elemental Craft**.
+- Embrace the arcane secrets of **Forbidden and Arcanus** and delve into the mysteries of **Mahou Tsukai** and **Occultism**.
+- Traverse enchanted lands and summon otherworldly beings to aid you in your quests.
+
+### Embark on Epic Exploration:
+- Discover hidden treasures and face daunting challenges with **Additional Structures** and **Dungeon Crawl**.
+- Soar through the skies with **Advanced Hook Launchers** and explore vibrant new worlds with **Biomes O Plenty** and **Twilight Forest**.
+- Engage in immersive MMO experiences with **ProjectMMO** and uncover the secrets of the unknown.
+
+### Masterful Farming:
+- Cultivate bountiful harvests with **Pam's Harvestcraft** and delve into culinary delights with **Cooking for Blockheads**.
+- Embrace the wonders of nature with **Farmer's Delight** and harness the power of mystical agriculture with **Nature's Aura**.
+
+### Unleash Your Creative Vision:
+- Build with unparalleled precision using **Building Gadgets** and revolutionize construction with **Chipped**.
+- Beautify your surroundings with **Macaw's Doors**, **Fences**, **Furniture**, **Lights**, **Roofs**, and **Windows**.
+- Craft capsules to transport entire landscapes and manifest your architectural dreams like never before.
+
+And this is just the beginning! With a plethora of other exciting features awaiting your discovery, prepare to embark on a journey where the boundaries between technology and magic blur, and the only limit is your imagination!
 
 
-This is a smooth introduction of several newer popular mods with tools to build advanced towns, factories, and cities!
 
-Features
-Tech
-Mekanism, Applied Energetics, Immersive Engineering, Create, Little Logistics, RFTools
-Magic 
-Botania, Apotheosis, Elemental Craft, Forbidden and Arcanus, Mahou Tsukai, Occultism
-Exploration
-Additional Structures, Advanced Hook Launchers, Biomes O Plenty, Blue Skies, Dungeon Crawl, ProjectMMO
-Farming 
-Croptopia, Cooking for Blockheads, Farmer's Delight, Mystical Agriculture, Nature's Aura
-Building
-Building Gadgets, Chipped, FrameBlocks, Macaw's Doors/Fences/Furniture/Lights/Roofs/Windows, Capsule
-
-and more!
-
-https://i.imgur.com/15AFImF.png
 
 <details>
 1.20.1 Modlist
