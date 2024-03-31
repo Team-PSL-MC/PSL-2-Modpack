@@ -4,12 +4,12 @@
 	#Inventory HUD mini mode
 	invMini = false
 	#Inventory HUD vertical mode
-	invVert = false
+	invVert = true
 	#Inventory HUD alpha
 	#Range: 0 ~ 100
 	invAlpha = 0
 	#Toggle on by default
-	byDefault = true
+	byDefault = false
 	#Animate recently picked up items
 	animatedInv = false
 	#Hide background if inventory is empty
@@ -51,7 +51,7 @@
 	#Show Armor HUD when debug menu is open
 	armWithDebug = true
 	#Show arrows count when no weapon in your hands
-	showArrowsWithoutWeapon = true
+	showArrowsWithoutWeapon = false
 
 #Settings for Potions HUD
 [potionshud]
@@ -107,16 +107,16 @@
 	yArmPos = 70
 	#Potion HUD vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
-	potValign = "TOP"
+	potValign = "CENTER"
 	#Potion HUD horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
 	potHalign = "LEFT"
 	#Potion HUD position (X)
 	#Range: -9999 ~ 9999
-	xPotionPos = 20
+	xPotionPos = 9
 	#Potion HUD position (Y)
 	#Range: -9999 ~ 9999
-	yPotionPos = 20
+	yPotionPos = 80
 	#Helmet position (X)
 	#Range: -9999 ~ 9999
 	helmPosX = 103
